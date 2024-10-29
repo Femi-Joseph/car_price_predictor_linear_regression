@@ -1,0 +1,2 @@
+# car_price_predictor_linear_regression
+Linear regression algorithm integrated with Django
